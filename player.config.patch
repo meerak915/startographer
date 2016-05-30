@@ -8,7 +8,7 @@
 	}
 }/* ,
 {
-	//Starcorder (Tricorder)
+	//Starcorder Alpha (Tricorder)
 	"op": "add",
 	"path": "/defaultBlueprints/tier2/-",
 	"value": {
@@ -16,7 +16,7 @@
 	}
 },
 {
-	//Starcorder (Tricorder)
+	//Starcorder Beta (Tricorder)
 	"op": "add",
 	"path": "/defaultBlueprints/tier3/-",
 	"value": {
@@ -24,7 +24,7 @@
 	}
 },
 {
-	//Starcorder (Tricorder)
+	//Starcorder Gamma (Tricorder)
 	"op": "add",
 	"path": "/defaultBlueprints/tier4/-",
 	"value": {
@@ -32,7 +32,7 @@
 	}
 },
 {
-	//Starcorder (Tricorder)
+	//Starcorder Delta (Tricorder)
 	"op": "add",
 	"path": "/defaultBlueprints/tier5/-",
 	"value": {
