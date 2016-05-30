@@ -1,0 +1,41 @@
+/* Tell starbound what game objects to patch into the game*/
+[{
+	//Cartography tech
+	"op": "add",
+	"path": "/defaultBlueprints/tier1/-",
+	"value": {
+		"item": "Startographer"
+	}
+},
+{
+	//Starcorder (Tricorder)
+	"op": "add",
+	"path": "/defaultBlueprints/tier2/-",
+	"value": {
+		"item": "Starcorder Alpha"
+	}
+},
+{
+	//Starcorder (Tricorder)
+	"op": "add",
+	"path": "/defaultBlueprints/tier3/-",
+	"value": {
+		"item": "Starcorder Beta"
+	}
+},
+{
+	//Starcorder (Tricorder)
+	"op": "add",
+	"path": "/defaultBlueprints/tier4/-",
+	"value": {
+		"item": "Starcorder Gamma"
+	}
+},
+{
+	//Starcorder (Tricorder)
+	"op": "add",
+	"path": "/defaultBlueprints/tier5/-",
+	"value": {
+		"item": "Starcorder Delta"
+	}
+}]
