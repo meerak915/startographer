@@ -1,0 +1,11 @@
+/* Information about the mod. */
+{
+	"name": "Startographer",
+	"version": "v0.01: for Glad Giraffe Update 1",
+	"path": ".",
+	"dependencies": [],
+	"metadata": {
+		"author": "Kareem ElAshmawy",
+		"description": "A mapping mod for Starbound. Includes tech and handheld mappers."
+	}
+}
