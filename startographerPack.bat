@@ -1,2 +1,2 @@
-"C:\Program Files (x86)\Steam\steamapps\common\Starbound\win64\asset_packer.exe" "startographer" "C:\Users\Kareem\Documents\GitHub\startographer"  "C:\Program Files (x86)\Steam\steamapps\common\Starbound\giraffe_storage\mods\startographer.pak"
+"C:\Program Files (x86)\Steam\steamapps\common\Starbound\win64\asset_packer.exe" "startographer" "C:\Users\Kareem\Documents\GitHub\startographer\startographer"  "C:\Program Files (x86)\Steam\steamapps\common\Starbound\giraffe_storage\mods\startographer.pak"
 @pause
