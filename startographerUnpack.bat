@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Steam\steamapps\common\Starbound\win64\asset_unpacker.exe" "C:\Program Files (x86)\Steam\steamapps\common\Starbound\giraffe_storage\mods\startographer.pak" "C:\Program Files (x86)\Steam\steamapps\common\Starbound\giraffe_storage\mods\startographer"
+@pause
