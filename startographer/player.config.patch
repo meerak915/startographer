@@ -6,15 +6,15 @@
 	"value": {
 		"tech": "Startographer"
 	}
-}/* ,
+},
 {
-	//Starcorder Alpha (Tricorder)
+	//StarcorderAlpha (Tricorder)
 	"op": "add",
 	"path": "/craftingtable/-", //tier 1
 	"value": {
 		"recipe": "StarcorderAlpha"
 	}
-},
+}/* ,
 {
 	//Starcorder Beta (Tricorder)
 	"op": "add",
