@@ -1,0 +1,10 @@
+/* Startographer item information */
+{
+  "itemName" : "StartographerTech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/Startographer.png",
+  "description" : "Press 'F' to begin mapping the surrounding ecosystem. Release to see the map. The longer you hold 'F', the farther you'll map. Cost: 10 energy per second.",
+  "shortdescription" : "Radar Mapper",
+
+  "techModule" : "Startographer"
+}
