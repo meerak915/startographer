@@ -1,11 +1,11 @@
-/* Starcorder Alpha tech recipe */
+/* StarcorderAlpha tech recipe */
 {
   "input" : [
     { "item" : "steel", "count" : 10 },
     { "item" : "core fragment", "count" : 10 }
   ],
   "output" : {
-    "item" : "Starcorder Alpha",
+    "item" : "StarcorderAlpha",
     "count" : 1
   },
   "groups" : [ "craftingtable", "objects", "all", "tools", "mod" ]
