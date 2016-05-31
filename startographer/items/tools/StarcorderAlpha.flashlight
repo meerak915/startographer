@@ -1,0 +1,18 @@
+/* modelled after yellow_flashlight */
+{
+  "itemName" : "StarcorderAlpha",
+  "price" : 1,
+  "inventoryIcon" : "StarcorderAlphaicon.png",
+  "rarity" : "Uncommon",
+  "maxStack" : 1,
+  "description" : "morior invictus",
+  "shortdescription" : "A starcorder",
+  "largeImage" : "StarcorderAlphalarge.png",
+  "tooltipKind" : "tool",
+  "image" : "StarcorderAlpha.png",
+  "handPosition" : [0, 0],
+  "lightPosition" : [0, 0],
+  "lightColor" : [255, 255, 255],
+  "beamLevel" : 5,
+  "beamAmbience" : 0.9
+}
