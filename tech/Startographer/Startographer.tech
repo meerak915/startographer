@@ -1,0 +1,12 @@
+/* Startographer tech information*/
+{
+	"name": "Startographer",
+	"type": "head",
+	//vec2.lua is a Helper script for treating tables as 2d vectors
+	"scripts": ["/scripts/vec2.lua", "Startographer.lua"],
+	"scriptDelta": 10,
+	"actions": ["activate",
+		"deactivate"],
+	"animator": "Startographer.animation",
+	"energyUsageRate": 10.0 //Energy per second.
+}
